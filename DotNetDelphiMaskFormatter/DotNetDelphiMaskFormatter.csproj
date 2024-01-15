@@ -1,7 +1,20 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <Description>A utility library to format/deformat strings according to Delphi masks in c# (conversion aids)
+    </Description>
+    <AssemblyTitle>Delphi string formatting</AssemblyTitle>
+    <VersionPrefix>1.0.0</VersionPrefix>    
+    <Authors>Richard Kramer</Authors>
+    <LangVersion>10.0</LangVersion>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <DebugType>portable</DebugType>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <PackageId>DotNetDelphiMaskFormatter</PackageId>
+    <PackageTags>Delphi;Formatting;MaskEdit</PackageTags>
+    <PackageProjectUrl>https://github.com/rkramer1964/DotNetDelphiMaskFormatter</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/rkramer1964/DotNetDelphiMaskFormatter/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
   </PropertyGroup>
 </Project>
