@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetDelphiMaskFormatter", "DotnetDelphiMaskFormatter\DotNetDelphiMaskFormatter.csproj", "{CCB4D0EA-2457-4D99-B1FE-B3542815EEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetDelphiMaskFormatterTest", "DotnetDelphiMaskFormatterTest\DotnetDelphiMaskFormatterTest.csproj", "{548C1C6B-1768-438A-ACBC-1AA9B865B372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB4D0EA-2457-4D99-B1FE-B3542815EEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB4D0EA-2457-4D99-B1FE-B3542815EEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB4D0EA-2457-4D99-B1FE-B3542815EEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB4D0EA-2457-4D99-B1FE-B3542815EEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548C1C6B-1768-438A-ACBC-1AA9B865B372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548C1C6B-1768-438A-ACBC-1AA9B865B372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548C1C6B-1768-438A-ACBC-1AA9B865B372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548C1C6B-1768-438A-ACBC-1AA9B865B372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
